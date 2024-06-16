@@ -19,7 +19,7 @@ font-family: 'Averia Gruesa Libre';font-size: 15px;
   margin: 0;
   padding: 0;
   width: 210px;
-  background-color: #333333;
+  background-color: #2E8B57;
   position: fixed;
   height: 100%;
   overflow: auto;
