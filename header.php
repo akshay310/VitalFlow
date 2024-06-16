@@ -75,6 +75,7 @@ a.logo2{
   <div class="header">
     <a href="home.php" class="logo"<?php if($active=='home') echo "class='logo2'"; ?>>VitalFlow </a>
     <div class="header-right">
+    <a href="home.php" <?php if($active=='home') echo "class='act'"; ?>>Home </a>
     <a href="aboutus.php"  <?php if($active=='about') echo "class='act'"; ?> >About Us</a>
     <a href="whydonateblood.php"  <?php if($active=='why') echo "class='act'"; ?>>Why Donate Blood</a>
       <a href="terms.php"  <?php if($active=='donate') echo "class='act'"; ?>>Become A Donor</a>
